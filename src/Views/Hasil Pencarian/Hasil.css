@@ -1,0 +1,44 @@
+.container-hasil
+{
+    display: flex;
+    margin: 30px 150px 120px;
+    font-family: helvetica;
+}
+
+.card-mobil
+{
+    margin-left: 70px;
+}
+
+.hasil-img-car
+{
+    padding: 31px 16px;
+}
+
+.card-mobil h5
+{
+    font-weight: bold;
+}
+
+
+.card-mobil p
+{
+    
+font-family: Helvetica;
+font-size: 14px;
+font-weight: 300;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.card-text ul 
+{
+    list-style: none;
+}
+
+.hasil-btn-pilihMobil
+{
+    width: 270px;
+}

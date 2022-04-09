@@ -1,0 +1,134 @@
+/* .container-pencarian {
+}
+
+.main {
+  padding-left: 120px;
+  display: flex;
+  background-image: url(../../Asset/Img/General/Rectangle\ 75.svg);
+}
+
+.main-left {
+  padding-top: 60px;
+}
+
+.main-left p {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.main-left h1 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+
+.main-right {
+  background-image: url(../../Asset/Img/Main/img_car.svg);
+  width: 50%;
+  height: 407px;
+  margin-left: 170px;
+  background-repeat: no-repeat;
+  position: static;
+}
+
+.main-mid {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 106px;
+  background-color: white;
+  height: 106px;
+  width: 1047px;
+  padding-top: 30px;
+  padding-left: 30px;
+  position: absolute;
+  border: 30px;
+  border-radius: 10px;
+
+  box-shadow: 0px 0px 10px 0px #00000026;
+
+}
+
+ */
+
+ .container-pencarian {
+}
+
+.main {
+  padding-left: 120px;
+  display: flex;
+  background-image: url(../../Asset/Img/General/Rectangle\ 75.svg);
+}
+
+.main-left {
+  padding-top: 60px;
+}
+
+.main-left p {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.main-left h1 {
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+
+.main-right {
+  background-image: url(../../Asset/Img/Main/img_car.svg);
+  width: 50%;
+  height: 407px;
+  margin-left: 170px;
+  background-repeat: no-repeat;
+  position: static;
+}
+
+.main-mid {
+  display: flex;
+  margin-top: 100px;
+  margin-left: 106px;
+  background-color: white;
+  height: 106px;
+  width: 1047px;
+  padding-top: 18px;
+  padding-left: 50px;
+  position: absolute;
+  border: 30px;
+  border-radius: 10px;
+
+  box-shadow: 0px 0px 10px 0px #00000026;
+
+}
+
+.tanggal
+{
+    margin-left: 16px;
+}
+
+.waktu-jemput
+{
+  margin-left: 16px;
+}
+
+.jml-penumpang
+{
+  margin-left: 16px;
+}
+
+.pencarian-btn-cariMobil
+{
+  width: 110px;
+  height: 36px;
+  margin-top: 32.5px;
+  margin-left: 16px;
+}
